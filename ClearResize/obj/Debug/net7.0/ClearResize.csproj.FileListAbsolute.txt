@@ -1,0 +1,14 @@
+C:\Users\hhaal\Desktop\C-_project\ClearResize\bin\Debug\net7.0\ClearResize.exe
+C:\Users\hhaal\Desktop\C-_project\ClearResize\bin\Debug\net7.0\ClearResize.deps.json
+C:\Users\hhaal\Desktop\C-_project\ClearResize\bin\Debug\net7.0\ClearResize.runtimeconfig.json
+C:\Users\hhaal\Desktop\C-_project\ClearResize\bin\Debug\net7.0\ClearResize.dll
+C:\Users\hhaal\Desktop\C-_project\ClearResize\bin\Debug\net7.0\ClearResize.pdb
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.AssemblyInfoInputs.cache
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.AssemblyInfo.cs
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.csproj.CoreCompileInputs.cache
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.dll
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\refint\ClearResize.dll
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.pdb
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ClearResize.genruntimeconfig.cache
+C:\Users\hhaal\Desktop\C-_project\ClearResize\obj\Debug\net7.0\ref\ClearResize.dll

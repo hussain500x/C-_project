@@ -1,0 +1,14 @@
+C:\Users\hhaal\Desktop\C-_project\formatting\bin\Debug\net7.0\formatting.exe
+C:\Users\hhaal\Desktop\C-_project\formatting\bin\Debug\net7.0\formatting.deps.json
+C:\Users\hhaal\Desktop\C-_project\formatting\bin\Debug\net7.0\formatting.runtimeconfig.json
+C:\Users\hhaal\Desktop\C-_project\formatting\bin\Debug\net7.0\formatting.dll
+C:\Users\hhaal\Desktop\C-_project\formatting\bin\Debug\net7.0\formatting.pdb
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.AssemblyInfoInputs.cache
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.AssemblyInfo.cs
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.csproj.CoreCompileInputs.cache
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.dll
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\refint\formatting.dll
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.pdb
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\formatting.genruntimeconfig.cache
+C:\Users\hhaal\Desktop\C-_project\formatting\obj\Debug\net7.0\ref\formatting.dll
