@@ -1,0 +1,15 @@
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\bin\Debug\net7.0\method_parameters.exe
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\bin\Debug\net7.0\method_parameters.deps.json
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\bin\Debug\net7.0\method_parameters.runtimeconfig.json
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\bin\Debug\net7.0\method_parameters.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\bin\Debug\net7.0\method_parameters.pdb
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.csproj.AssemblyReference.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.AssemblyInfoInputs.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.AssemblyInfo.cs
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.csproj.CoreCompileInputs.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\refint\method_parameters.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.pdb
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\method_parameters.genruntimeconfig.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\method_parameters\obj\Debug\net7.0\ref\method_parameters.dll
