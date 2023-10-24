@@ -1,0 +1,15 @@
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\bin\Debug\net7.0\debugging_1.exe
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\bin\Debug\net7.0\debugging_1.deps.json
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\bin\Debug\net7.0\debugging_1.runtimeconfig.json
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\bin\Debug\net7.0\debugging_1.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\bin\Debug\net7.0\debugging_1.pdb
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.csproj.AssemblyReference.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.AssemblyInfoInputs.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.AssemblyInfo.cs
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.csproj.CoreCompileInputs.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\refint\debugging_1.dll
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.pdb
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\debugging_1.genruntimeconfig.cache
+C:\Users\hussain.almarzooq\Desktop\C-_project\debugging_1\obj\Debug\net7.0\ref\debugging_1.dll
