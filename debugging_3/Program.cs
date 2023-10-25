@@ -23,7 +23,6 @@ foreach (string name in names)
 bool pauseCode = true;
 while (pauseCode == true);
 
-
 static string SophiaMessage()
 {
     return "Hello, my name is Sophia.";
